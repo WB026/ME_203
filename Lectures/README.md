@@ -1,2 +1,2 @@
-# Lectures 1-3 are excel
-# Lectures 4-21 are MATLAB
+# Lectures are all MATLAB
+## Labs are also included for MATLAB
